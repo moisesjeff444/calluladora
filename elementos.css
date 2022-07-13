@@ -5,9 +5,11 @@
     border-radius: 10px;
     border-color: rgb(0, 255, 0);
 }
-#botao{
+ #botao { 
 margin-top: 10px;
 border-radius: 20px;
+text-decoration:none;
+
 }
 
 .hyyy{
@@ -30,14 +32,25 @@ color: red;
     border-radius: 10px;
     border-color: rgb(0, 255, 13);
 }
-.img{
-    width: 600px;
+.imagem{
+  width: 900px;
 }
 #botaoo{
     border-radius: 20px;
     margin-top: 10px;
     font-size: 20px;
+    text-decoration: none;
 }
-#termos{
+ #termos 
+{
     font-size: 20px;
+    list-style: none;
+    margin-right: 200px;
+    margin: 0px;
+    padding: 0px;
 }
+.margem{
+    margin: 5px;
+    padding: 0px;
+}
+ 
